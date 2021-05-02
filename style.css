@@ -1,0 +1,16 @@
+img{
+    height: 300px;
+    width: 200px;
+    border-style: solid;
+    border-width: 3px;
+    padding: 3px;
+    border-color:sandybrown;
+}
+body{
+    text-align: center;
+    
+}
+#img1{
+    width: 500px;
+    height: 300px;
+}
